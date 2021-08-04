@@ -3,7 +3,7 @@ import ReactMapGL, { NavigationControl, Marker, Layer } from "react-map-gl";
 import Location from "./location.png";
 
 const MAPBOX_TOKEN =
-  "pk.eyJ1Ijoic3VyYWpmYyIsImEiOiJja3E5NWttYjMwbW82MnVvd29mdmg0aGZ3In0.IqFMjczorMTePeMMqHQfnA"; // Set your mapbox token here
+  ""; // Set your mapbox token here
 
 const waterLayer = {
   id: "water",
